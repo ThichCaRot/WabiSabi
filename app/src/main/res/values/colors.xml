@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#352A29</color>
+    <color name="white">#F4EFEE</color>
+    <color name="statusBar">@color/material_dynamic_neutral50</color>
+</resources>
